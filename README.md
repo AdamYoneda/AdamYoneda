@@ -1,10 +1,10 @@
 # Adam Yoneda - Software Engineer
 
-## Hello, I'm Adam 👋
+## Hello, I'm Adam
 
  Adam Yoneda / 米田 亜多夢
 
-## About Me 🧑‍💻
+## About Me
 
 - 💻 Software Engineer
 - 🏓 Ping-pong enthusiast
